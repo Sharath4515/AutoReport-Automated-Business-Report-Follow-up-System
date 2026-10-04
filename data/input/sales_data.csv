@@ -1,0 +1,11 @@
+Order_ID,Date,Customer,Product,Category,Quantity,Unit_Price,Status
+1001,2026-09-01,Ravi,Laptop,Electronics,1,55000,Completed
+1002,2026-09-02,Priya,Mouse,Electronics,2,800,Completed
+1003,2026-09-03,Arun,Keyboard,Electronics,1,1500,Completed
+1004,2026-09-04,Anu,Monitor,Electronics,1,12000,Completed
+1005,2026-09-05,Ravi,Laptop,Electronics,1,55000,Completed
+1006,2026-09-06,Sai,Chair,Furniture,2,4500,Pending
+1007,2026-09-07,Priya,Desk,Furniture,1,8000,Completed
+1008,2026-09-08,Arun,Mouse,Electronics,3,800,Completed
+1009,2026-09-09,Anu,Monitor,Electronics,1,12000,Cancelled
+1010,2026-09-10,Sai,Laptop,Electronics,1,55000,Completed
