@@ -1,9 +1,13 @@
 import pandas as pd
+import os
 from openpyxl import load_workbook
 from openpyxl.styles import Font
 
 
 def generate_report(df, summary, issues):
+
+    # Create reports folder if it does not exist
+    os.makedirs("reports", exist_ok=True)
 
     report_path = "reports/AutoReport_Report.xlsx"
 
